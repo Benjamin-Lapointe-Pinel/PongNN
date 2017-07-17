@@ -1,0 +1,21 @@
+﻿  PongNN.cpp
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(52): warning C4244: 'initializing': conversion from 'const float' to 'std::size_t', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(53): warning C4244: 'initializing': conversion from 'const float' to 'std::size_t', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(58): warning C4244: '=': conversion from 'const float' to 'std::size_t', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(59): warning C4244: '=': conversion from 'const float' to 'std::size_t', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(64): warning C4244: '=': conversion from 'const float' to 'std::size_t', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(65): warning C4244: '=': conversion from 'const float' to 'std::size_t', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(78): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(92): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(133): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(199): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(200): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(207): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(211): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(212): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(220): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(224): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(225): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\benjamin\onedrive\documents\visual studio 2015\projects\pongnn\pongnn\pongnn.cpp(260): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PongNN.vcxproj -> C:\Users\Benjamin\OneDrive\Documents\Visual Studio 2015\Projects\PongNN\Debug\PongNN.exe
+  PongNN.vcxproj -> C:\Users\Benjamin\OneDrive\Documents\Visual Studio 2015\Projects\PongNN\Debug\PongNN.pdb (Full PDB)
